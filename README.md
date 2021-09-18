@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ClayJosn
+- 👋 Hi, I’m ClayJosn
+- Malware writer
+- Can customize anything you need
 - 📫 How to reach me telegram: @clayjosn
 
 <!---
